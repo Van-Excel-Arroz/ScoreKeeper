@@ -1,3 +1,7 @@
+p {
+	margin: 0;
+}
+
 .score-keeper {
 	display: flex;
 	flex-direction: column;
